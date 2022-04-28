@@ -1,2 +1,2 @@
 Click `Allow` to generate the `IDFA` value.
-![Alt text](/Users/abhishekpandey/Downloads/image.png?raw=true "Title")
+![Alt text](https://github.com/1abhishekpandey/IDFA/blob/main/image.png?raw=true "Title")
