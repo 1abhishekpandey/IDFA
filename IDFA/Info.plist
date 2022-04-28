@@ -22,6 +22,6 @@
 		</dict>
 	</dict>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>Press Allow (It&apos;ll be null on SImulator</string>
+	<string>Press Allow (Value be null on Simulator</string>
 </dict>
 </plist>
